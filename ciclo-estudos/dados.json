@@ -1,0 +1,90 @@
+{
+  "schema": 2,
+  "planner": {
+    "value": {
+      "daily": 240,
+      "cap": 120,
+      "days": 6,
+      "perday": "auto",
+      "subjects": [
+        {
+          "name": "Constitucional",
+          "status": "Consolidação",
+          "weight": 1
+        },
+        {
+          "name": "Administrativo",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Português",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Rlm",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Trabalho",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 6",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 7",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 8",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 9",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 10",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 11",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 12",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 13",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 14",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 15",
+          "status": "Aguardando",
+          "weight": 1
+        }
+      ]
+    },
+    "updatedAt": "2026-10-08T14:27:21.896Z"
+  },
+  "sessions": []
+}
