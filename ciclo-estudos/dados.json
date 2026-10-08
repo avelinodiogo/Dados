@@ -53,6 +53,21 @@
   },
   "sessions": [
     {
+      "id": "0f3c23b1-dd34-4a9b-afa7-cb48e9f42502",
+      "group": "0e2b5b1e-be91-44f6-963b-32da691b1ba3",
+      "subject": "Constitucional",
+      "topic": "tESTE",
+      "kind": "review",
+      "reviewId": "",
+      "date": "2026-10-08",
+      "seconds": 4,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-08T20:25:58.435Z",
+      "updatedAt": "2026-10-08T20:25:58.435Z",
+      "deleted": false
+    },
+    {
       "id": "45d674b1-5e1a-4b2b-8cc9-9e7e99239bd0",
       "group": "b9999d37-9636-485d-8cf4-bcff58699ff2",
       "date": "2026-10-08",
