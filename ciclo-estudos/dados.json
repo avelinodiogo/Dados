@@ -1,5 +1,5 @@
 {
-  "schema": 2,
+  "schema": 3,
   "planner": {
     "value": {
       "daily": 240,
@@ -84,7 +84,7 @@
         }
       ]
     },
-    "updatedAt": "2026-10-08T14:27:21.896Z"
+    "updatedAt": "2026-10-08T15:32:49.444Z"
   },
   "sessions": [
     {
@@ -97,7 +97,9 @@
       "note": "",
       "createdAt": "2026-10-08T14:43:45.790Z",
       "updatedAt": "2026-10-08T14:44:49.287Z",
-      "deleted": true
+      "deleted": true,
+      "kind": "study",
+      "topic": ""
     },
     {
       "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
@@ -109,7 +111,11 @@
       "note": "",
       "createdAt": "2026-10-08T14:45:54.588Z",
       "updatedAt": "2026-10-08T14:46:20.911Z",
-      "deleted": false
+      "deleted": false,
+      "kind": "study",
+      "topic": ""
     }
-  ]
+  ],
+  "reviewPlans": [],
+  "reviews": []
 }
