@@ -98,6 +98,18 @@
       "createdAt": "2026-10-08T14:43:45.790Z",
       "updatedAt": "2026-10-08T14:44:49.287Z",
       "deleted": true
+    },
+    {
+      "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
+      "group": "f66b2bcf-3226-4084-abca-76ed6e6f3e4e",
+      "date": "2026-10-08",
+      "subject": "Português",
+      "seconds": 63,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-08T14:45:54.588Z",
+      "updatedAt": "2026-10-08T14:45:54.588Z",
+      "deleted": false
     }
   ]
 }
