@@ -60,11 +60,11 @@
       "kind": "review",
       "reviewId": "",
       "date": "2026-10-08",
-      "seconds": 4,
+      "seconds": 3600,
       "source": "timer",
       "note": "",
       "createdAt": "2026-10-08T20:25:58.435Z",
-      "updatedAt": "2026-10-08T20:25:58.435Z",
+      "updatedAt": "2026-10-08T20:26:15.179Z",
       "deleted": false
     },
     {
