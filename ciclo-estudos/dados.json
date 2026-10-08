@@ -110,8 +110,8 @@
       "source": "timer",
       "note": "",
       "createdAt": "2026-10-08T14:45:54.588Z",
-      "updatedAt": "2026-10-08T14:46:20.911Z",
-      "deleted": false,
+      "updatedAt": "2026-10-08T17:15:05.501Z",
+      "deleted": true,
       "kind": "study",
       "topic": ""
     }
