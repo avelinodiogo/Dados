@@ -46,45 +46,10 @@
           "name": "Matéria 8",
           "status": "Aguardando",
           "weight": 1
-        },
-        {
-          "name": "Matéria 9",
-          "status": "Aguardando",
-          "weight": 1
-        },
-        {
-          "name": "Matéria 10",
-          "status": "Aguardando",
-          "weight": 1
-        },
-        {
-          "name": "Matéria 11",
-          "status": "Aguardando",
-          "weight": 1
-        },
-        {
-          "name": "Matéria 12",
-          "status": "Aguardando",
-          "weight": 1
-        },
-        {
-          "name": "Matéria 13",
-          "status": "Aguardando",
-          "weight": 1
-        },
-        {
-          "name": "Matéria 14",
-          "status": "Aguardando",
-          "weight": 1
-        },
-        {
-          "name": "Nova matéria",
-          "status": "Aguardando",
-          "weight": 1
         }
       ]
     },
-    "updatedAt": "2026-10-08T17:19:00.333Z"
+    "updatedAt": "2026-10-08T17:19:06.988Z"
   },
   "sessions": [
     {
