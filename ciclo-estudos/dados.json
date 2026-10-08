@@ -67,6 +67,20 @@
       "topic": ""
     },
     {
+      "id": "4f98fb74-3b67-4c6e-88fe-142dfa46ef30",
+      "group": "cf3ad45a-90c2-4487-bee3-aa6b57bd8430",
+      "date": "2026-10-08",
+      "subject": "Rlm",
+      "topic": "",
+      "kind": "study",
+      "seconds": 6255,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-08T20:23:36.221Z",
+      "updatedAt": "2026-10-08T20:23:36.221Z",
+      "deleted": false
+    },
+    {
       "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
       "group": "f66b2bcf-3226-4084-abca-76ed6e6f3e4e",
       "date": "2026-10-08",
