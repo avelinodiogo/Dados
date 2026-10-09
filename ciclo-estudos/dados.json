@@ -29,7 +29,7 @@
         },
         {
           "name": "Trabalho",
-          "status": "Construção",
+          "status": "Consolidação",
           "weight": 1
         },
         {
@@ -49,7 +49,7 @@
         }
       ]
     },
-    "updatedAt": "2026-10-09T00:24:12.509Z"
+    "updatedAt": "2026-10-09T00:24:25.777Z"
   },
   "sessions": [
     {
