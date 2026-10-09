@@ -34,7 +34,7 @@
         },
         {
           "name": "Matéria 6",
-          "status": "Construção",
+          "status": "Aguardando",
           "weight": 1
         },
         {
@@ -49,7 +49,7 @@
         }
       ]
     },
-    "updatedAt": "2026-10-09T00:24:45.003Z"
+    "updatedAt": "2026-10-09T00:24:47.830Z"
   },
   "sessions": [
     {
