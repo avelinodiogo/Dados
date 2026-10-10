@@ -125,6 +125,20 @@
       "deleted": false
     },
     {
+      "id": "a3dcc3f5-5083-4279-b870-8694e12b1c66",
+      "group": "9477637f-f138-44fe-99b0-f7c38e307379",
+      "date": "2026-10-10",
+      "subject": "Português",
+      "topic": "Pontuação",
+      "kind": "study",
+      "seconds": 4645,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-10T16:53:00.698Z",
+      "updatedAt": "2026-10-10T16:53:00.698Z",
+      "deleted": false
+    },
+    {
       "id": "ada04b31-f4d2-4824-9149-52649d9d9503",
       "date": "2026-10-08",
       "subject": "Rlm",
