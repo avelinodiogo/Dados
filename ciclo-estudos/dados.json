@@ -96,6 +96,20 @@
       "deleted": false
     },
     {
+      "id": "61f2af70-6d39-4ed3-b7ab-511012c0cfa2",
+      "group": "c3a8ef93-d5b4-4da1-87fa-56d34a6af37e",
+      "date": "2026-10-12",
+      "subject": "Constitucional",
+      "topic": "",
+      "kind": "study",
+      "seconds": 5524,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-12T15:11:44.384Z",
+      "updatedAt": "2026-10-12T15:11:44.384Z",
+      "deleted": false
+    },
+    {
       "id": "6283442d-9729-43b3-82a1-7c84d9cb08e6",
       "group": "cce4bbaa-2ce9-4a46-b9e2-fa4367817545",
       "subject": "Rlm",
