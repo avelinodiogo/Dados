@@ -192,6 +192,20 @@
       "deleted": true,
       "kind": "study",
       "topic": ""
+    },
+    {
+      "id": "fcd2461c-2ed3-47b1-beb6-670322ace072",
+      "group": "d16dffa4-050d-4bda-b298-439dedf8550d",
+      "date": "2026-10-12",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "kind": "study",
+      "seconds": 5064,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-12T21:36:47.033Z",
+      "updatedAt": "2026-10-12T21:36:47.033Z",
+      "deleted": false
     }
   ],
   "reviewPlans": [],
