@@ -1,5 +1,5 @@
 {
-  "schema": 3,
+  "schema": 4,
   "planner": {
     "value": {
       "daily": 240,
@@ -181,5 +181,140 @@
     }
   ],
   "reviewPlans": [],
-  "reviews": []
+  "reviews": [],
+  "planDays": [
+    {
+      "id": "plan:2026-10-12",
+      "date": "2026-10-12",
+      "blocks": [
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Rlm",
+          "status": "Construção",
+          "minutes": 80
+        }
+      ],
+      "updatedAt": "2026-10-12T16:30:52.540Z"
+    },
+    {
+      "id": "plan:2026-10-13",
+      "date": "2026-10-13",
+      "blocks": [
+        {
+          "subject": "Constitucional",
+          "status": "Consolidação",
+          "minutes": 48
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 96
+        },
+        {
+          "subject": "Trabalho",
+          "status": "Construção",
+          "minutes": 96
+        }
+      ],
+      "updatedAt": "2026-10-12T16:30:52.540Z"
+    },
+    {
+      "id": "plan:2026-10-14",
+      "date": "2026-10-14",
+      "blocks": [
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 96
+        },
+        {
+          "subject": "Constitucional",
+          "status": "Consolidação",
+          "minutes": 48
+        },
+        {
+          "subject": "Trabalho",
+          "status": "Construção",
+          "minutes": 96
+        }
+      ],
+      "updatedAt": "2026-10-12T16:30:52.540Z"
+    },
+    {
+      "id": "plan:2026-10-15",
+      "date": "2026-10-15",
+      "blocks": [
+        {
+          "subject": "Rlm",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 80
+        }
+      ],
+      "updatedAt": "2026-10-12T16:30:52.540Z"
+    },
+    {
+      "id": "plan:2026-10-16",
+      "date": "2026-10-16",
+      "blocks": [
+        {
+          "subject": "Constitucional",
+          "status": "Consolidação",
+          "minutes": 48
+        },
+        {
+          "subject": "Rlm",
+          "status": "Construção",
+          "minutes": 96
+        },
+        {
+          "subject": "Trabalho",
+          "status": "Construção",
+          "minutes": 96
+        }
+      ],
+      "updatedAt": "2026-10-12T16:30:52.540Z"
+    },
+    {
+      "id": "plan:2026-10-17",
+      "date": "2026-10-17",
+      "blocks": [
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Rlm",
+          "status": "Construção",
+          "minutes": 80
+        }
+      ],
+      "updatedAt": "2026-10-12T16:30:52.540Z"
+    }
+  ],
+  "reflections": []
 }
