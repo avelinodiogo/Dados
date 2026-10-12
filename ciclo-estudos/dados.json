@@ -166,6 +166,20 @@
       "deleted": false
     },
     {
+      "id": "be5026f0-a0bf-4458-858e-f233dab7ee80",
+      "group": "ef16adaa-2439-48b8-8fad-d3a3c758d46e",
+      "date": "2026-10-12",
+      "subject": "Português",
+      "topic": "Pontuação",
+      "kind": "study",
+      "seconds": 3391,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-12T19:32:37.117Z",
+      "updatedAt": "2026-10-12T19:32:37.117Z",
+      "deleted": false
+    },
+    {
       "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
       "group": "f66b2bcf-3226-4084-abca-76ed6e6f3e4e",
       "date": "2026-10-08",
