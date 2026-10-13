@@ -53,6 +53,20 @@
   },
   "sessions": [
     {
+      "id": "06a3b9bc-78fe-4649-bf96-84efa2308af9",
+      "group": "0e81ea4c-37ce-4350-a674-447619e9b88b",
+      "date": "2026-10-13",
+      "subject": "Trabalho",
+      "topic": "Conceitos, Princípios e Fontes",
+      "kind": "study",
+      "seconds": 4870,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-13T16:16:18.983Z",
+      "updatedAt": "2026-10-13T16:16:18.983Z",
+      "deleted": false
+    },
+    {
       "id": "0f3c23b1-dd34-4a9b-afa7-cb48e9f42502",
       "group": "0e2b5b1e-be91-44f6-963b-32da691b1ba3",
       "subject": "Constitucional",
