@@ -246,6 +246,17 @@
       "closed": false
     },
     {
+      "id": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "studiedOn": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
+      "deleted": true,
+      "closed": false
+    },
+    {
       "id": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
       "subject": "Trabalho",
       "topic": "Conceitos e Principios",
@@ -257,6 +268,17 @@
       "closed": false
     },
     {
+      "id": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "studiedOn": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true,
+      "closed": false
+    },
+    {
       "id": "9532aef9-9def-4ca4-ba3c-30b0c4da0bf4",
       "subject": "Constitucional",
       "topic": "teste5",
@@ -264,6 +286,17 @@
       "notes": "",
       "createdAt": "2026-10-13T21:44:10.310Z",
       "updatedAt": "2026-10-13T21:47:54.954Z",
+      "deleted": true,
+      "closed": false
+    },
+    {
+      "id": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "studiedOn": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
       "deleted": true,
       "closed": false
     },
@@ -295,6 +328,20 @@
       "deleted": true
     },
     {
+      "id": "1148cd8f-a0fb-4a18-97b0-b47f48c35226",
+      "planId": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "interval": 1,
+      "dueDate": "2026-10-14",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
+      "deleted": true
+    },
+    {
       "id": "11c2ebca-e8df-4c85-9daa-ddc7bc5ca321",
       "planId": "076136f1-eaa6-42ab-8bf5-44620930619d",
       "subject": "Constitucional",
@@ -323,6 +370,20 @@
       "deleted": false
     },
     {
+      "id": "19420326-e8e1-4585-957e-704a19d8aaf5",
+      "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "interval": 90,
+      "dueDate": "2027-01-11",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true
+    },
+    {
       "id": "2424c9a7-a18d-41d5-a0a6-9e09820c8e47",
       "planId": "9532aef9-9def-4ca4-ba3c-30b0c4da0bf4",
       "subject": "Constitucional",
@@ -348,6 +409,20 @@
       "notes": "",
       "createdAt": "2026-10-13T21:43:09.921Z",
       "updatedAt": "2026-10-13T21:47:47.390Z",
+      "deleted": true
+    },
+    {
+      "id": "30b133f4-d96c-4041-b1f9-1d006e55b371",
+      "planId": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "interval": 30,
+      "dueDate": "2026-11-12",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
       "deleted": true
     },
     {
@@ -393,6 +468,20 @@
       "deleted": true
     },
     {
+      "id": "40f8c42d-3252-480a-a763-63ff404e9e33",
+      "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "interval": 120,
+      "dueDate": "2027-02-10",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true
+    },
+    {
       "id": "4302e836-942b-44eb-9073-40205b10ed77",
       "planId": "076136f1-eaa6-42ab-8bf5-44620930619d",
       "subject": "Constitucional",
@@ -421,6 +510,20 @@
       "deleted": false
     },
     {
+      "id": "4df03b89-4fee-47ab-955b-83949110a867",
+      "planId": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "interval": 14,
+      "dueDate": "2026-10-27",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
+      "deleted": true
+    },
+    {
       "id": "4fef31fd-1dfa-4278-a33a-c190fe9ce65d",
       "planId": "206f1182-dd60-433d-bd37-d7867eff86b0",
       "subject": "Constitucional",
@@ -432,6 +535,34 @@
       "notes": "",
       "createdAt": "2026-10-13T21:43:17.151Z",
       "updatedAt": "2026-10-13T21:47:49.807Z",
+      "deleted": true
+    },
+    {
+      "id": "512ea28b-4aa4-436e-ac3a-f8e25eaa10c7",
+      "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "interval": 14,
+      "dueDate": "2026-10-27",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true
+    },
+    {
+      "id": "61cc1f5b-b821-4fdf-b6a0-e4beff17d06d",
+      "planId": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "interval": 90,
+      "dueDate": "2027-01-11",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
       "deleted": true
     },
     {
@@ -477,6 +608,34 @@
       "deleted": true
     },
     {
+      "id": "7e6fd7b5-3ee9-46c4-981b-027607b2cb7c",
+      "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "interval": 30,
+      "dueDate": "2026-11-12",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true
+    },
+    {
+      "id": "850ddaa3-6a31-4c81-a909-b581132ea3ab",
+      "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "interval": 1,
+      "dueDate": "2026-10-14",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true
+    },
+    {
       "id": "8bcc13fb-10a3-4bec-b53f-fedad2b12850",
       "planId": "cf8ab939-5dba-44fd-9bce-a29734b950fd",
       "subject": "Constitucional",
@@ -488,6 +647,48 @@
       "notes": "",
       "createdAt": "2026-10-13T21:43:09.921Z",
       "updatedAt": "2026-10-13T21:47:47.390Z",
+      "deleted": true
+    },
+    {
+      "id": "90759249-6ba8-4c54-9c30-5191c50a70d0",
+      "planId": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "interval": 1,
+      "dueDate": "2026-10-14",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
+      "deleted": true
+    },
+    {
+      "id": "907a561c-02ba-48a9-bb92-55a20116e138",
+      "planId": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "interval": 120,
+      "dueDate": "2027-02-10",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
+      "deleted": true
+    },
+    {
+      "id": "a49475dc-6b2e-4630-b52a-6ab729c33af9",
+      "planId": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "interval": 7,
+      "dueDate": "2026-10-20",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
       "deleted": true
     },
     {
@@ -547,6 +748,20 @@
       "deleted": true
     },
     {
+      "id": "d025ae3d-5f17-4355-b01c-fb4b3848dbb2",
+      "planId": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "interval": 30,
+      "dueDate": "2026-11-12",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
+      "deleted": true
+    },
+    {
       "id": "d1cce40e-2a88-4922-aa88-813a1211a9d4",
       "planId": "9532aef9-9def-4ca4-ba3c-30b0c4da0bf4",
       "subject": "Constitucional",
@@ -589,6 +804,20 @@
       "deleted": true
     },
     {
+      "id": "d990c4f2-492c-4cb4-a460-c989a84fb9d9",
+      "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
+      "subject": "Constitucional",
+      "topic": "asa",
+      "interval": 7,
+      "dueDate": "2026-10-20",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:02.721Z",
+      "updatedAt": "2026-10-13T21:53:25.141Z",
+      "deleted": true
+    },
+    {
       "id": "de545668-a6cc-4f39-b09a-33f5cf915a89",
       "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
       "subject": "Trabalho",
@@ -601,6 +830,20 @@
       "createdAt": "2026-10-13T16:21:50.113Z",
       "updatedAt": "2026-10-13T16:21:50.113Z",
       "deleted": false
+    },
+    {
+      "id": "e1e0ec55-1f5d-4d1a-8921-2f19082aaf3c",
+      "planId": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "interval": 120,
+      "dueDate": "2027-02-10",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
+      "deleted": true
     },
     {
       "id": "e245412f-8276-4110-9731-ea5db99d86f8",
@@ -687,6 +930,34 @@
       "deleted": true
     },
     {
+      "id": "f4479dfd-8b1c-431c-a0bc-b97c9313756e",
+      "planId": "a6f60f24-9354-4a4f-a752-23730fb550ca",
+      "subject": "Constitucional",
+      "topic": "teste2",
+      "interval": 7,
+      "dueDate": "2026-10-20",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:52:57.511Z",
+      "updatedAt": "2026-10-13T21:53:29.159Z",
+      "deleted": true
+    },
+    {
+      "id": "f87049ac-eb9e-470d-b5cb-85ab920c2fe3",
+      "planId": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "interval": 14,
+      "dueDate": "2026-10-27",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
+      "deleted": true
+    },
+    {
       "id": "f87ac76e-c033-4a17-8cb0-099ab3f0d2a9",
       "planId": "9532aef9-9def-4ca4-ba3c-30b0c4da0bf4",
       "subject": "Constitucional",
@@ -698,6 +969,20 @@
       "notes": "",
       "createdAt": "2026-10-13T21:44:10.310Z",
       "updatedAt": "2026-10-13T21:47:54.954Z",
+      "deleted": true
+    },
+    {
+      "id": "fecf7c82-b3a9-40c4-a37b-8759746cba9c",
+      "planId": "21b03372-f0f2-4e0a-988a-e4457773994f",
+      "subject": "Constitucional",
+      "topic": "teste5",
+      "interval": 90,
+      "dueDate": "2027-01-11",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T21:53:00.236Z",
+      "updatedAt": "2026-10-13T21:53:27.286Z",
       "deleted": true
     }
   ],
