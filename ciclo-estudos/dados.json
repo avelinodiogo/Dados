@@ -222,8 +222,105 @@
       "deleted": false
     }
   ],
-  "reviewPlans": [],
-  "reviews": [],
+  "reviewPlans": [
+    {
+      "id": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "studiedOn": "2026-10-13",
+      "notes": "qstoes e grifos",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false,
+      "closed": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1464613f-aadd-45e6-95d4-ed0beb134718",
+      "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "interval": 90,
+      "dueDate": "2027-01-11",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false
+    },
+    {
+      "id": "3afbc087-03b9-40a6-8e23-713ae934d22a",
+      "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "interval": 120,
+      "dueDate": "2027-02-10",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false
+    },
+    {
+      "id": "4b7e1d67-d529-41f7-8641-9c42c3a76286",
+      "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "interval": 30,
+      "dueDate": "2026-11-12",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false
+    },
+    {
+      "id": "a6e4fd62-d7a6-40cd-84f3-5d2811664927",
+      "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "interval": 14,
+      "dueDate": "2026-10-27",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false
+    },
+    {
+      "id": "de545668-a6cc-4f39-b09a-33f5cf915a89",
+      "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "interval": 1,
+      "dueDate": "2026-10-14",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false
+    },
+    {
+      "id": "e245412f-8276-4110-9731-ea5db99d86f8",
+      "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "interval": 7,
+      "dueDate": "2026-10-20",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "deleted": false
+    }
+  ],
   "planDays": [
     {
       "id": "plan:2026-10-12",
