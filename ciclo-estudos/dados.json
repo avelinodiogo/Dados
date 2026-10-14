@@ -208,6 +208,19 @@
       "deleted": false
     },
     {
+      "id": "c4be6f35-a0ab-4b7e-823b-3038540b082f",
+      "date": "2026-10-13",
+      "subject": "Matéria 6",
+      "topic": "",
+      "kind": "study",
+      "seconds": 2520,
+      "source": "manual",
+      "note": "",
+      "createdAt": "2026-10-14T00:49:12.021Z",
+      "updatedAt": "2026-10-14T00:49:17.878Z",
+      "deleted": true
+    },
+    {
       "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
       "group": "f66b2bcf-3226-4084-abca-76ed6e6f3e4e",
       "date": "2026-10-08",
