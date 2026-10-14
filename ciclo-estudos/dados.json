@@ -167,6 +167,20 @@
       "deleted": false
     },
     {
+      "id": "7f5dc25d-1630-406c-9d82-03b82ab1e61f",
+      "group": "7aab7d74-4d66-4c19-9cd0-b4ea9ca1cbcc",
+      "date": "2026-10-14",
+      "subject": "Constitucional",
+      "topic": "Tópicos Iniciais",
+      "kind": "study",
+      "seconds": 2884,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-14T21:45:23.052Z",
+      "updatedAt": "2026-10-14T21:45:23.052Z",
+      "deleted": false
+    },
+    {
       "id": "a3dcc3f5-5083-4279-b870-8694e12b1c66",
       "group": "9477637f-f138-44fe-99b0-f7c38e307379",
       "date": "2026-10-10",
