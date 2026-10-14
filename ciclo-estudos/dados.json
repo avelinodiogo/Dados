@@ -82,6 +82,21 @@
       "deleted": true
     },
     {
+      "id": "3f8fe56d-5c87-4f73-8ccf-7dadb7beebe6",
+      "group": "9d1a93ca-7cbc-4229-89dd-75c090b8f58c",
+      "subject": "Trabalho",
+      "topic": "Conceitos e Principios",
+      "kind": "review",
+      "reviewId": "de545668-a6cc-4f39-b09a-33f5cf915a89",
+      "date": "2026-10-14",
+      "seconds": 1377,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-14T23:34:23.830Z",
+      "updatedAt": "2026-10-14T23:34:23.830Z",
+      "deleted": false
+    },
+    {
       "id": "45d674b1-5e1a-4b2b-8cc9-9e7e99239bd0",
       "group": "b9999d37-9636-485d-8cf4-bcff58699ff2",
       "date": "2026-10-08",
@@ -1217,11 +1232,11 @@
       "topic": "Conceitos e Principios",
       "interval": 1,
       "dueDate": "2026-10-14",
-      "status": "scheduled",
-      "doneAt": null,
+      "status": "done",
+      "doneAt": "2026-10-14T23:34:23.831Z",
       "notes": "",
       "createdAt": "2026-10-13T16:21:50.113Z",
-      "updatedAt": "2026-10-13T16:21:50.113Z",
+      "updatedAt": "2026-10-14T23:34:23.831Z",
       "deleted": false
     },
     {
