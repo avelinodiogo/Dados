@@ -53,6 +53,20 @@
   },
   "sessions": [
     {
+      "id": "034d9ebc-96fb-441f-95f0-ce3becdd4290",
+      "group": "6ed6059b-f0b5-4623-aaff-46083034044d",
+      "date": "2026-10-15",
+      "subject": "Português",
+      "topic": "Colocação Pronominal",
+      "kind": "study",
+      "seconds": 3130,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-15T22:08:49.950Z",
+      "updatedAt": "2026-10-15T22:08:49.950Z",
+      "deleted": false
+    },
+    {
       "id": "06a3b9bc-78fe-4649-bf96-84efa2308af9",
       "group": "0e81ea4c-37ce-4350-a674-447619e9b88b",
       "date": "2026-10-13",
