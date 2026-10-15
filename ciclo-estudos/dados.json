@@ -264,6 +264,20 @@
       "deleted": true
     },
     {
+      "id": "d28848f8-2a62-4813-903a-2e85ebb7105b",
+      "group": "a194abb2-85fd-4870-ba4f-5280805b882a",
+      "date": "2026-10-14",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "kind": "study",
+      "seconds": 1206,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-15T01:20:50.763Z",
+      "updatedAt": "2026-10-15T01:20:50.763Z",
+      "deleted": false
+    },
+    {
       "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
       "group": "f66b2bcf-3226-4084-abca-76ed6e6f3e4e",
       "date": "2026-10-08",
