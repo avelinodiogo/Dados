@@ -196,6 +196,20 @@
       "deleted": false
     },
     {
+      "id": "8535bc62-efa7-4752-9733-e5a733adf444",
+      "group": "50592ea3-9888-459b-a318-0bad22fa0967",
+      "date": "2026-10-14",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "kind": "study",
+      "seconds": 2881,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-15T00:29:31.050Z",
+      "updatedAt": "2026-10-15T00:29:31.050Z",
+      "deleted": false
+    },
+    {
       "id": "a3dcc3f5-5083-4279-b870-8694e12b1c66",
       "group": "9477637f-f138-44fe-99b0-f7c38e307379",
       "date": "2026-10-10",
