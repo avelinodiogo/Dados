@@ -349,6 +349,17 @@
       "closed": false
     },
     {
+      "id": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "studiedOn": "2026-10-14",
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false,
+      "closed": false
+    },
+    {
       "id": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
       "subject": "Constitucional",
       "topic": "asa",
@@ -440,6 +451,20 @@
       "createdAt": "2026-10-14T00:57:48.245Z",
       "updatedAt": "2026-10-14T00:58:24.928Z",
       "deleted": true
+    },
+    {
+      "id": "05bd5fdb-3c59-4451-913f-9877787a426e",
+      "planId": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "interval": 14,
+      "dueDate": "2026-10-28",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
     },
     {
       "id": "0ab1f218-551b-47a2-9f5e-e93e2d569983",
@@ -862,6 +887,20 @@
       "deleted": true
     },
     {
+      "id": "7ca1e023-0a11-4bff-a369-3cfadc5fac89",
+      "planId": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "interval": 1,
+      "dueDate": "2026-10-15",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
+    },
+    {
       "id": "7e6fd7b5-3ee9-46c4-981b-027607b2cb7c",
       "planId": "72ca8b76-1091-4e04-b1ca-0bc21e405315",
       "subject": "Constitucional",
@@ -932,6 +971,20 @@
       "deleted": true
     },
     {
+      "id": "8d1d3158-eada-42db-b6fd-c684f424d353",
+      "planId": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "interval": 120,
+      "dueDate": "2027-02-11",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
+    },
+    {
       "id": "8e330574-b566-4571-8dfa-583c635037d9",
       "planId": "78dec001-cd29-4a29-9120-5baaf7b96afd",
       "subject": "Constitucional",
@@ -944,6 +997,20 @@
       "createdAt": "2026-10-14T00:57:48.245Z",
       "updatedAt": "2026-10-14T00:58:24.928Z",
       "deleted": true
+    },
+    {
+      "id": "90639439-178a-486a-9d21-911cf0eff234",
+      "planId": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "interval": 7,
+      "dueDate": "2026-10-21",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
     },
     {
       "id": "90759249-6ba8-4c54-9c30-5191c50a70d0",
@@ -1142,6 +1209,20 @@
       "deleted": true
     },
     {
+      "id": "c16a0dbc-614b-417d-841c-9d6d4b694dd8",
+      "planId": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "interval": 30,
+      "dueDate": "2026-11-13",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
+    },
+    {
       "id": "c216a826-4bb3-4752-80b2-2b91b66dbf1e",
       "planId": "e815eb69-4f41-41d5-9240-dcddfe467ecd",
       "subject": "Constitucional",
@@ -1168,6 +1249,20 @@
       "createdAt": "2026-10-13T21:52:57.511Z",
       "updatedAt": "2026-10-13T21:53:29.159Z",
       "deleted": true
+    },
+    {
+      "id": "d0967faa-9af9-4052-8f07-7d9a7f599fec",
+      "planId": "4f44c6cb-6d46-4020-ad5c-e3b8afae5da8",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "interval": 90,
+      "dueDate": "2027-01-12",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
     },
     {
       "id": "d1cce40e-2a88-4922-aa88-813a1211a9d4",
