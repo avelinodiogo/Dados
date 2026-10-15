@@ -224,6 +224,21 @@
       "deleted": false
     },
     {
+      "id": "a9b80664-d248-4007-a621-afa2d8aa9097",
+      "group": "307a9800-9c9a-46b6-b2c8-87c91907fabf",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "kind": "review",
+      "reviewId": "7ca1e023-0a11-4bff-a369-3cfadc5fac89",
+      "date": "2026-10-15",
+      "seconds": 3,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-15T18:43:45.475Z",
+      "updatedAt": "2026-10-15T18:43:45.475Z",
+      "deleted": false
+    },
+    {
       "id": "ada04b31-f4d2-4824-9149-52649d9d9503",
       "date": "2026-10-08",
       "subject": "Rlm",
@@ -907,11 +922,11 @@
       "topic": "Fontes",
       "interval": 1,
       "dueDate": "2026-10-15",
-      "status": "scheduled",
-      "doneAt": null,
+      "status": "done",
+      "doneAt": "2026-10-15T18:43:45.476Z",
       "notes": "",
       "createdAt": "2026-10-15T00:30:01.148Z",
-      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-15T18:43:45.476Z",
       "deleted": false
     },
     {
