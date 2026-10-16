@@ -96,6 +96,20 @@
       "deleted": true
     },
     {
+      "id": "32867fb4-11aa-4e97-8444-26b75f1e19a7",
+      "group": "301d94bb-8271-4e96-bb4f-ba0307758db9",
+      "date": "2026-10-15",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "kind": "study",
+      "seconds": 1679,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-16T01:25:09.337Z",
+      "updatedAt": "2026-10-16T01:25:09.337Z",
+      "deleted": false
+    },
+    {
       "id": "3f8fe56d-5c87-4f73-8ccf-7dadb7beebe6",
       "group": "9d1a93ca-7cbc-4229-89dd-75c090b8f58c",
       "subject": "Trabalho",
