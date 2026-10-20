@@ -96,6 +96,20 @@
       "deleted": true
     },
     {
+      "id": "1f4e5f02-6183-42ec-bbc1-027a2eb1c6e2",
+      "group": "6ac4b80a-b3b9-4c08-a819-caf6075b5b32",
+      "date": "2026-10-19",
+      "subject": "Português",
+      "topic": "Interpretação",
+      "kind": "study",
+      "seconds": 2655,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-20T00:21:07.819Z",
+      "updatedAt": "2026-10-20T00:21:07.819Z",
+      "deleted": false
+    },
+    {
       "id": "32867fb4-11aa-4e97-8444-26b75f1e19a7",
       "group": "301d94bb-8271-4e96-bb4f-ba0307758db9",
       "date": "2026-10-15",
