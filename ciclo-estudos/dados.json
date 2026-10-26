@@ -366,6 +366,20 @@
       "deleted": false
     },
     {
+      "id": "ba858b4d-f76d-4793-94d9-e8c6b5c95fb5",
+      "group": "bebe67dd-3c79-4e09-9135-ef1c6a72bf2e",
+      "date": "2026-10-26",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "kind": "study",
+      "seconds": 5687,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
+    },
+    {
       "id": "be5026f0-a0bf-4458-858e-f233dab7ee80",
       "group": "ef16adaa-2439-48b8-8fad-d3a3c758d46e",
       "date": "2026-10-12",
@@ -465,6 +479,17 @@
     }
   ],
   "reviewPlans": [
+    {
+      "id": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "studiedOn": "2026-10-26",
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false,
+      "closed": false
+    },
     {
       "id": "0360199a-6732-4412-9f34-c9ff1cd2145e",
       "subject": "Constitucional",
@@ -815,6 +840,20 @@
       "deleted": true
     },
     {
+      "id": "255579fc-984e-4455-ade7-a29b4bf4df46",
+      "planId": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "interval": 14,
+      "dueDate": "2026-11-09",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
+    },
+    {
       "id": "2598dc39-58d0-4ea1-89f3-5f955f1eda0b",
       "planId": "cf8ab939-5dba-44fd-9bce-a29734b950fd",
       "subject": "Constitucional",
@@ -941,6 +980,20 @@
       "deleted": true
     },
     {
+      "id": "478abd10-21e1-4579-8cad-5b6b96ac658b",
+      "planId": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "interval": 7,
+      "dueDate": "2026-11-02",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
+    },
+    {
       "id": "4b5a0aec-b281-472f-825a-6019814388ce",
       "planId": "e815eb69-4f41-41d5-9240-dcddfe467ecd",
       "subject": "Constitucional",
@@ -1009,6 +1062,20 @@
       "createdAt": "2026-10-13T21:53:02.721Z",
       "updatedAt": "2026-10-13T21:53:25.141Z",
       "deleted": true
+    },
+    {
+      "id": "5205b69d-7ef1-46b1-a84c-f07e33f86984",
+      "planId": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "interval": 1,
+      "dueDate": "2026-10-27",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
     },
     {
       "id": "5af4f0ad-bb0b-4d42-bbfe-00f29b5b10ba",
@@ -1179,6 +1246,20 @@
       "deleted": true
     },
     {
+      "id": "7ee97aec-0963-474c-bf39-9b475c15686b",
+      "planId": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "interval": 90,
+      "dueDate": "2027-01-25",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
+    },
+    {
       "id": "7f0a4433-98e7-4639-9400-c10e63121dda",
       "planId": "e815eb69-4f41-41d5-9240-dcddfe467ecd",
       "subject": "Constitucional",
@@ -1317,6 +1398,20 @@
       "createdAt": "2026-10-13T21:52:57.511Z",
       "updatedAt": "2026-10-13T21:53:29.159Z",
       "deleted": true
+    },
+    {
+      "id": "96059b6e-6a0f-482a-a1a4-31fad9c72f9c",
+      "planId": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "interval": 120,
+      "dueDate": "2027-02-23",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
     },
     {
       "id": "964e12a9-e652-47f8-944b-5f04f438abcf",
@@ -1667,6 +1762,20 @@
       "createdAt": "2026-10-13T21:53:02.721Z",
       "updatedAt": "2026-10-13T21:53:25.141Z",
       "deleted": true
+    },
+    {
+      "id": "de15ef6b-b082-4026-8bf3-fb7bf0b9ed88",
+      "planId": "018fbc7e-fadb-44b4-aa7c-62c77c89c946",
+      "subject": "Rlm",
+      "topic": "Razões e Proporções",
+      "interval": 30,
+      "dueDate": "2026-11-25",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T21:35:58.931Z",
+      "updatedAt": "2026-10-26T21:35:58.931Z",
+      "deleted": false
     },
     {
       "id": "de545668-a6cc-4f39-b09a-33f5cf915a89",
