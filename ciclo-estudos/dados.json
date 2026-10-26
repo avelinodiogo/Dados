@@ -364,6 +364,20 @@
       "deleted": false
     },
     {
+      "id": "df02fdd0-9a02-4b88-b7fb-c18362c33a8a",
+      "group": "7cfb63f6-406a-4526-8109-a1069afeed51",
+      "date": "2026-10-26",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "kind": "study",
+      "seconds": 3278,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false
+    },
+    {
       "id": "e21847fb-31ac-4a98-b999-87dae3c56c6a",
       "group": "f66b2bcf-3226-4084-abca-76ed6e6f3e4e",
       "date": "2026-10-08",
@@ -526,6 +540,17 @@
       "closed": false
     },
     {
+      "id": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "studiedOn": "2026-10-26",
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false,
+      "closed": false
+    },
+    {
       "id": "e815eb69-4f41-41d5-9240-dcddfe467ecd",
       "subject": "Constitucional",
       "topic": "teste222",
@@ -575,6 +600,20 @@
       "notes": "",
       "createdAt": "2026-10-15T00:30:01.148Z",
       "updatedAt": "2026-10-15T00:30:01.148Z",
+      "deleted": false
+    },
+    {
+      "id": "06dc95be-e46c-4b7f-a91e-4f2c94267236",
+      "planId": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "interval": 14,
+      "dueDate": "2026-11-09",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
       "deleted": false
     },
     {
@@ -648,6 +687,20 @@
       "deleted": true
     },
     {
+      "id": "1249e7f8-24a7-440f-9a00-c5e42550a802",
+      "planId": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "interval": 90,
+      "dueDate": "2027-01-25",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false
+    },
+    {
       "id": "1464613f-aadd-45e6-95d4-ed0beb134718",
       "planId": "26dfe506-d6a4-434f-b49a-094c5f9797e9",
       "subject": "Trabalho",
@@ -716,6 +769,20 @@
       "createdAt": "2026-10-13T21:43:09.921Z",
       "updatedAt": "2026-10-13T21:47:47.390Z",
       "deleted": true
+    },
+    {
+      "id": "2bbbd3e2-548c-4a47-9428-5669ae894a7b",
+      "planId": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "interval": 7,
+      "dueDate": "2026-11-02",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false
     },
     {
       "id": "30b133f4-d96c-4041-b1f9-1d006e55b371",
@@ -1082,6 +1149,20 @@
       "deleted": true
     },
     {
+      "id": "8a725f42-afc6-495d-a8e9-c3dfe4c17ace",
+      "planId": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "interval": 30,
+      "dueDate": "2026-11-25",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false
+    },
+    {
       "id": "8b08a692-34b5-4525-973f-eafa05df30bd",
       "planId": "e815eb69-4f41-41d5-9240-dcddfe467ecd",
       "subject": "Constitucional",
@@ -1304,6 +1385,20 @@
       "createdAt": "2026-10-14T00:57:48.245Z",
       "updatedAt": "2026-10-14T00:58:24.928Z",
       "deleted": true
+    },
+    {
+      "id": "b22d1aea-1236-4d7d-8384-9b8dd272c89f",
+      "planId": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "interval": 120,
+      "dueDate": "2027-02-23",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false
     },
     {
       "id": "b30ef97b-00fa-438b-a55c-09cc859a974a",
@@ -1626,6 +1721,20 @@
       "createdAt": "2026-10-13T21:43:17.151Z",
       "updatedAt": "2026-10-13T21:47:49.807Z",
       "deleted": true
+    },
+    {
+      "id": "ee3eaa9b-684d-46f0-a8ad-887d4ed63a81",
+      "planId": "e1182df2-57b8-4dac-8244-24d1a602cfe8",
+      "subject": "Administrativo",
+      "topic": "Contratos",
+      "interval": 1,
+      "dueDate": "2026-10-27",
+      "status": "scheduled",
+      "doneAt": null,
+      "notes": "",
+      "createdAt": "2026-10-26T13:02:09.098Z",
+      "updatedAt": "2026-10-26T13:02:09.098Z",
+      "deleted": false
     },
     {
       "id": "f2e46e90-878e-40ed-ab0a-a8be15e85d44",
