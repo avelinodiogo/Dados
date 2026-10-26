@@ -497,8 +497,8 @@
       "studiedOn": "2026-10-15",
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false,
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true,
       "closed": false
     },
     {
@@ -907,8 +907,8 @@
       "doneAt": null,
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true
     },
     {
       "id": "4b5a0aec-b281-472f-825a-6019814388ce",
@@ -1103,8 +1103,8 @@
       "doneAt": null,
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true
     },
     {
       "id": "7aea415a-a972-469c-a346-302df18557dc",
@@ -1299,8 +1299,8 @@
       "doneAt": null,
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true
     },
     {
       "id": "a3d9e6e2-5f03-4642-9514-0f9852154834",
@@ -1439,8 +1439,8 @@
       "doneAt": null,
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true
     },
     {
       "id": "b340da02-65ae-4493-9400-2813535b266d",
@@ -1537,8 +1537,8 @@
       "doneAt": null,
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true
     },
     {
       "id": "d025ae3d-5f17-4355-b01c-fb4b3848dbb2",
@@ -1817,8 +1817,8 @@
       "doneAt": null,
       "notes": "",
       "createdAt": "2026-10-15T23:48:20.139Z",
-      "updatedAt": "2026-10-15T23:48:20.139Z",
-      "deleted": false
+      "updatedAt": "2026-10-26T18:19:22.314Z",
+      "deleted": true
     },
     {
       "id": "f87049ac-eb9e-470d-b5cb-85ab920c2fe3",
