@@ -81,6 +81,21 @@
       "deleted": false
     },
     {
+      "id": "0de7e594-aa85-4442-bde3-62454d037ba4",
+      "group": "c8b4a017-eb64-4f24-a3a6-c549b3d35891",
+      "subject": "Trabalho",
+      "topic": "Fontes",
+      "kind": "review",
+      "reviewId": "90639439-178a-486a-9d21-911cf0eff234",
+      "date": "2026-10-26",
+      "seconds": 1456,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-26T19:33:50.543Z",
+      "updatedAt": "2026-10-26T19:33:50.543Z",
+      "deleted": false
+    },
+    {
       "id": "0f3c23b1-dd34-4a9b-afa7-cb48e9f42502",
       "group": "0e2b5b1e-be91-44f6-963b-32da691b1ba3",
       "subject": "Constitucional",
@@ -1268,11 +1283,11 @@
       "topic": "Fontes",
       "interval": 7,
       "dueDate": "2026-10-21",
-      "status": "scheduled",
-      "doneAt": null,
+      "status": "done",
+      "doneAt": "2026-10-26T19:33:50.544Z",
       "notes": "",
       "createdAt": "2026-10-15T00:30:01.148Z",
-      "updatedAt": "2026-10-15T00:30:01.148Z",
+      "updatedAt": "2026-10-26T19:33:50.544Z",
       "deleted": false
     },
     {
