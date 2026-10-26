@@ -210,6 +210,20 @@
       "deleted": false
     },
     {
+      "id": "7208b612-b1e6-4fb2-b2f7-c5c0fda6efe3",
+      "group": "84d33cc1-8a7f-4dd4-8ef2-4cdf3e735a87",
+      "date": "2026-10-26",
+      "subject": "Administrativo",
+      "topic": "Controle da APU",
+      "kind": "study",
+      "seconds": 1477,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-26T14:11:22.292Z",
+      "updatedAt": "2026-10-26T14:11:22.292Z",
+      "deleted": false
+    },
+    {
       "id": "75667a69-212f-4004-afd1-21a9c1c6324b",
       "group": "8f36f47a-422f-4848-ab8b-4abe5e965c3f",
       "date": "2026-10-13",
