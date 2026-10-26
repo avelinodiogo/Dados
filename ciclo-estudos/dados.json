@@ -280,6 +280,20 @@
       "deleted": false
     },
     {
+      "id": "a997f67f-4a88-4106-94ad-92f3201f61f1",
+      "group": "a9b7f15b-6198-49dd-aa2d-3965d8c08673",
+      "date": "2026-10-26",
+      "subject": "Português",
+      "topic": "Interpretação",
+      "kind": "study",
+      "seconds": 2458,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-26T18:18:18.609Z",
+      "updatedAt": "2026-10-26T18:18:18.609Z",
+      "deleted": false
+    },
+    {
       "id": "a9b80664-d248-4007-a621-afa2d8aa9097",
       "group": "307a9800-9c9a-46b6-b2c8-87c91907fabf",
       "subject": "Trabalho",
