@@ -169,16 +169,17 @@
 {"id":"plan:2026-10-24","date":"2026-10-24","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80}],"updatedAt":"2026-10-19T19:37:16.324Z"},
 {"id":"plan:2026-10-26","date":"2026-10-26","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80}],"updatedAt":"2026-10-26T11:42:58.154Z"},
 {"id":"plan:2026-10-27","date":"2026-10-27","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80}],"updatedAt":"2026-10-27T22:22:59.981Z"},
-{"id":"plan:2026-10-28","date":"2026-10-28","blocks":[{"subject":"Trabalho","status":"Construção","minutes":80},{"subject":"Constitucional","status":"Consolidação","minutes":80},{"subject":"Administrativo","status":"Construção","minutes":80}],"updatedAt":"2026-10-27T22:23:55.037Z"},
-{"id":"plan:2026-10-29","date":"2026-10-29","blocks":[{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80},{"subject":"Trabalho","status":"Construção","minutes":80}],"updatedAt":"2026-10-27T22:23:55.038Z"},
-{"id":"plan:2026-10-30","date":"2026-10-30","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80}],"updatedAt":"2026-10-27T22:23:55.038Z"},
-{"id":"plan:2026-10-31","date":"2026-10-31","blocks":[{"subject":"Trabalho","status":"Construção","minutes":80},{"subject":"Constitucional","status":"Consolidação","minutes":80},{"subject":"Administrativo","status":"Construção","minutes":80}],"updatedAt":"2026-10-27T22:23:55.038Z"},
+{"id":"plan:2026-10-28","date":"2026-10-28","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80}],"updatedAt":"2026-10-28T12:50:05.546Z"},
+{"id":"plan:2026-10-29","date":"2026-10-29","blocks":[{"subject":"Trabalho","status":"Construção","minutes":80},{"subject":"Constitucional","status":"Consolidação","minutes":80},{"subject":"Administrativo","status":"Construção","minutes":80}],"updatedAt":"2026-10-28T12:50:05.546Z"},
+{"id":"plan:2026-10-30","date":"2026-10-30","blocks":[{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80},{"subject":"Trabalho","status":"Construção","minutes":80}],"updatedAt":"2026-10-28T12:50:05.546Z"},
+{"id":"plan:2026-10-31","date":"2026-10-31","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80}],"updatedAt":"2026-10-28T12:50:05.546Z"},
 {"id":"plan:2026-11-01","date":"2026-11-01","blocks":[],"updatedAt":"2026-10-27T22:17:54.275Z"}
 ],
 "reflections":[
 {"id":"reason:2026-10-13|Constitucional","date":"2026-10-13","subject":"Constitucional","reason":"Cansaço em viagem. 20:30 ainda nao tinha concluido o cronograma. Raciocinio ruim p questoes","action":"","createdAt":"2026-10-14T00:59:43.268Z","updatedAt":"2026-10-14T00:59:43.268Z","deleted":false}
 ],
 "cycleDays":[
-{"id":"cycle:2026-10-27","date":"2026-10-27","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Administrativo","minutes":80,"round":1},{"subject":"Português","minutes":80,"round":1},{"subject":"Rlm","minutes":80,"round":1}],"updatedAt":"2026-10-27T22:23:02.359Z"}
+{"id":"cycle:2026-10-27","date":"2026-10-27","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Administrativo","minutes":80,"round":1},{"subject":"Português","minutes":80,"round":1},{"subject":"Rlm","minutes":80,"round":1}],"updatedAt":"2026-10-27T22:23:02.359Z"},
+{"id":"cycle:2026-10-28","date":"2026-10-28","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Administrativo","minutes":80,"round":1},{"subject":"Português","minutes":80,"round":1},{"subject":"Rlm","minutes":80,"round":1}],"updatedAt":"2026-10-28T12:50:05.542Z"}
 ]
 }
