@@ -200,8 +200,8 @@
 {"id":"plan:2026-10-27","date":"2026-10-27","blocks":[{"subject":"Português","status":"Construção","minutes":120},{"subject":"Contabilidade","status":"Construção","minutes":120}],"updatedAt":"2026-10-30T03:16:48.098Z"},
 {"id":"plan:2026-10-28","date":"2026-10-28","blocks":[{"subject":"Constitucional","status":"Consolidação","minutes":120},{"subject":"Administrativo","status":"Construção","minutes":120}],"updatedAt":"2026-10-30T03:16:48.098Z"},
 {"id":"plan:2026-10-29","date":"2026-10-29","blocks":[{"subject":"Português","status":"Construção","minutes":120},{"subject":"Contabilidade","status":"Construção","minutes":120}],"updatedAt":"2026-10-30T03:16:48.098Z"},
-{"id":"plan:2026-10-30","date":"2026-10-30","blocks":[{"subject":"Administrativo","status":"Construção","minutes":120},{"subject":"Contabilidade","status":"Construção","minutes":120}],"updatedAt":"2026-10-30T03:16:48.098Z"},
-{"id":"plan:2026-10-31","date":"2026-10-31","blocks":[{"subject":"Português","status":"Construção","minutes":120},{"subject":"Contabilidade","status":"Construção","minutes":120}],"updatedAt":"2026-10-30T03:16:48.098Z"},
+{"id":"plan:2026-10-30","date":"2026-10-30","blocks":[{"subject":"Administrativo","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80},{"subject":"Trabalho","status":"Construção","minutes":80}],"updatedAt":"2026-10-30T03:16:50.871Z"},
+{"id":"plan:2026-10-31","date":"2026-10-31","blocks":[{"subject":"Português","status":"Construção","minutes":80},{"subject":"Rlm","status":"Construção","minutes":80},{"subject":"Trabalho","status":"Construção","minutes":80}],"updatedAt":"2026-10-30T03:16:50.871Z"},
 {"id":"plan:2026-11-01","date":"2026-11-01","blocks":[],"updatedAt":"2026-10-27T22:17:54.275Z"}
 ],
 "reflections":[
@@ -211,6 +211,6 @@
 {"id":"cycle:2026-10-27","date":"2026-10-27","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Administrativo","minutes":80,"round":1},{"subject":"Português","minutes":80,"round":1},{"subject":"Rlm","minutes":80,"round":1}],"updatedAt":"2026-10-27T22:23:02.359Z"},
 {"id":"cycle:2026-10-28","date":"2026-10-28","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Administrativo","minutes":80,"round":1},{"subject":"Português","minutes":80,"round":1},{"subject":"Rlm","minutes":80,"round":1}],"updatedAt":"2026-10-28T12:50:05.542Z"},
 {"id":"cycle:2026-10-29","date":"2026-10-29","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Trabalho","minutes":80,"round":1},{"subject":"Constitucional","minutes":80,"round":1},{"subject":"Administrativo","minutes":80,"round":1}],"updatedAt":"2026-10-29T18:30:57.873Z"},
-{"id":"cycle:2026-10-30","date":"2026-10-30","members":["Constitucional","Administrativo","Português","Contabilidade"],"needs":[14400,21600,21600,21600],"blocks":[{"subject":"Administrativo","minutes":120,"round":1},{"subject":"Português","minutes":120,"round":1}],"updatedAt":"2026-10-30T03:16:48.111Z"}
+{"id":"cycle:2026-10-30","date":"2026-10-30","members":["Constitucional","Administrativo","Português","Rlm","Trabalho"],"needs":[9600,19200,19200,19200,19200],"blocks":[{"subject":"Trabalho","minutes":80,"round":1},{"subject":"Constitucional","minutes":80,"round":1},{"subject":"Administrativo","minutes":80,"round":1}],"updatedAt":"2026-10-30T03:16:50.875Z"}
 ]
 }
